@@ -1,0 +1,42 @@
+
+
+
+div{
+background-color: aqua;
+
+}
+
+ .tk {
+
+text-align: center;
+
+
+}
+a,table, th, td {
+    border: 2px solid blueviolet;
+    /* border-collapse: collapse; */
+    border-spacing: 5px;
+}
+  th, td {
+    padding: 5px;
+    text-align: left;    
+  }
+
+.table{
+
+    background-origin: padding-box;
+    border: 1px solid 3333;
+
+}
+
+
+  /* div {
+backgroundimage:("");
+
+
+  } */
+  /* div{
+    
+  background-image: url("https://www.posb.com.sg/iwov-resources/media/images/deposits/self-services-banking-square-684x630.jpg");
+ 
+} */
