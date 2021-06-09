@@ -19,8 +19,7 @@ export default function Services () {
             <td>
                <table border = "10" width = "100%" color = "blue">
                  
-        
-                    <tr>
+                  <tr>
                   <th>Date</th>
                      <th>Card </th>
                      <th>Card number</th>
@@ -60,8 +59,7 @@ export default function Services () {
 <td>VISA</td><td>53560000****4656</td><td>177.25</td>
 
 </tr>
- 
-               </table>
+ </table>
             </td>
          </tr>
          

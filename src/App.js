@@ -21,8 +21,8 @@ function App() {
           <Route path='/aboutus' component={AboutUs}/>
           <Route path='/login' component={Login}/>
           <Route path ='/MyAccount' component={MyAccount}/>
-       
-       
+         
+
         </Switch>
         <Footer/>
       </Router>
