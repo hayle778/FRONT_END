@@ -21,7 +21,7 @@ return (
 
 
 <button class="button button1" button type = "submit" width>
-<a>Submit UserName</a>
+
 <a href="/"> CD Acc</a>
    
    
