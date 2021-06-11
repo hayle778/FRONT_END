@@ -7,7 +7,7 @@ export default function Services () {
 
     <div>
         
-        <img src ="https://www.posb.com.sg/iwov-resources/media/images/deposits/self-services-banking-square-684x630.jpg" width="1600px" height="600px"   ></img>
+        <img src ="https://i2.wp.com/blog.bankbazaar.com/wp-content/uploads/2014/10/ATM.jpg?ssl=1" width="1600px" height="600px"   ></img>
         {/* <img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;"> */}
 
         {/* <h1 className='services'>SERVICES</h1> */}

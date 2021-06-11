@@ -8,7 +8,6 @@ return(
 
 <div>
 
-<h3>***Checking</h3>
 
 <div class="row">
   <div class="column" >
