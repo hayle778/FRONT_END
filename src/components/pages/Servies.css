@@ -2,14 +2,17 @@
 
 
 div{
-background-color: aqua;
 
+background-image: url("https://www.posb.com.sg/iwov-resources/media/images/deposits/self-services-banking-square-684x630.jpg");
+background-repeat: no-repeat;
+background-size: 3000px 1000px;
+background-color: burlywood;
 }
 
  .tk {
 
 text-align: center;
-
+color: crimson;
 
 }
 a,table, th, td {
@@ -29,3 +32,7 @@ a,table, th, td {
 
 }
 
+h2{
+  text-align: center;
+  color: crimson;
+}

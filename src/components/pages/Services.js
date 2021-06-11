@@ -11,7 +11,7 @@ export default function Services () {
         {/* <img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;"> */}
 
         {/* <h1 className='services'>SERVICES</h1> */}
-    <tk>All Transactions</tk>
+    <h2><font face="Arial" size="20px" color="#FF7A59">All Transactions</font></h2>
    <table border = "1" width = "100%">
         
     

@@ -42,16 +42,7 @@ function Navbar() {
                 </Link>
               </li>
   {/* ...................*/}
-              <li className='nav-item'>
-                <Link
-                  to='/MyAccount'
-                  className='nav-links'
-                  onClick={closeMobileMenu}
-                >
-                 MyAccount
-                </Link>
-              </li>
-{/* ................. */}
+        
               <li className='nav-item'>
                 <Link
                   to='/services'
@@ -70,7 +61,21 @@ function Navbar() {
                   About Us
                 </Link>
               </li>
-  
+  {/* .............................................. */}
+  <li className='nav-item'>
+                <Link
+                  to='/MyAccount'
+                  className='nav-links'
+                  onClick={closeMobileMenu}
+                >
+                 MyAccount
+                </Link>
+              </li>
+{/* ................. */}
+
+
+
+
               <li>
                 <Link
                   to='/login'
