@@ -29,9 +29,11 @@ function Navbar() {
       <>
         <nav className='navbar'>
           <div className='navbar-container'>
+            
             <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-                MeritBank
+                MeritBank <html><br/></html><img src="https://coursereport-production.imgix.net/uploads/school/logo/983/original/merit-20america-20logo.jpg?w=200&amp;h=200   "width ="90" height = "80"></img>
             </Link>
+          
             <div className='menu-icon' onClick={handleClick}>
               <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
             </div>
@@ -45,7 +47,7 @@ function Navbar() {
         
               <li className='nav-item'>
                 <Link
-                  to='/services'
+                  to='/Services'
                   className='nav-links'
                   onClick={closeMobileMenu}
                 >
@@ -54,7 +56,7 @@ function Navbar() {
               </li>
               <li className='nav-item'>
                 <Link
-                  to='/aboutus'
+                  to='/AboutUs'
                   className='nav-links'
                   onClick={closeMobileMenu}
                 >

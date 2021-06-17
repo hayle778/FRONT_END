@@ -19,11 +19,7 @@ export  default function MyAccount () {
 
 return (
 
-
-
 <div>
-
-
 
 <button class="button button1" button type = "submit" width>
 

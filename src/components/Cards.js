@@ -13,13 +13,13 @@ function Cards() {
                             src='https://moneycrashers-sparkchargemedia.netdna-ssl.com/wp-content/uploads/2018/08/best-free-checking-account-1068x713.jpg'
                             text='Explore checking account options'
                             label='Personal'
-                            path='/services'
+                            path='/Checking'
                         />
                         <CardItem 
                             src='http://assets-cdn.ekantipur.com/images/third-party/money-finance/14062016083617M-Banking-copy-1000x0.jpg'
                             text='Explore savings account options'
                             label='Savings'
-                            path='/services'
+                            path='/Saving'
                         />
                         
                     </ul>
@@ -28,13 +28,13 @@ function Cards() {
                             src='https://assets.imksb.net/sites/14/2017/05/individual-retirement-account.jpg'
                             text='Explore IRA account options'
                             label='IRA'
-                            path='/services'
+                            path='/IRAAcc'
                         />
                         <CardItem 
                             src='https://i.pinimg.com/originals/75/fc/c1/75fcc1457add16558ea8954ea961bcd4.png'
                             text='Explore CD account options'
                             label='CD'
-                            path='/services'
+                            path='/CDAcc'
                         />
                     </ul>
                 </div>

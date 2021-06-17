@@ -23,8 +23,10 @@ import PersonalChecking from './components/pages/PersonalChecking';
 import DbaChecking from './components/pages/DbaChecking';
 import IRARollover from './components/pages/IRARollover';
 
+
 function App() {
   return (
+    
     <>
       <Router>
         <Navbar/>
@@ -34,7 +36,7 @@ function App() {
           <Route path='/aboutus' component={AboutUs}/>
           <Route path='/login' component={Login}/>
           <Route path ='/MyAccount' component={MyAccount}/>
-           </Switch>
+       </Switch>
         
         
            <Switch>
